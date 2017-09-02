@@ -1,5 +1,5 @@
 # Udacity Data Analyst Nanodegree
-Wny this program? Successfull completion of this nanodegree satisfies the prerequisite requirement to gain entry into the Western Governors University MS Data Analyist program.
+Why this program? Successfull completion of this nanodegree satisfies the prerequisite requirement to gain entry into the Western Governors University MS Data Analyist program.
 
 # Program Description from Udacity
 "The Data Analyst Nanodegree program is specifically designed to prepare you for a career in Data Science. As a Data Analyst, you are responsible for obtaining, analyzing, and effectively reporting on data insights ranging from business metrics to user behavior and product performance. This program’s curriculum was developed with leading industry partners to ensure students master the most cutting-edge curriculum. Demand for qualified employees with advanced data skills has never been higher, and graduates will emerge fully job-ready and fully prepared for this amazing career."
