@@ -13,13 +13,12 @@ Wny this program? Successfull completion of this nanodegree satisfies the prereq
     MongoDB for Data Analysis
     Data Analysis with R
     Intro to Machine Learning
-    Data Visualization and D3.js
+    Data Visualization and Tableau
     A/B Testing
 
 # Listed below (in alphabetical order) are the software, libraries, frameworks, etc. that are covered in the Nanodegree:
 
     Anaconda
-    d3.js
     dimple.js
     dplyr
     ggplot2
@@ -35,4 +34,5 @@ Wny this program? Successfull completion of this nanodegree satisfies the prereq
     R Studio
     scikit-learn
     SQL
+    Tableau
     XML
