@@ -1,6 +1,11 @@
+## Udacity Data Analyst Nanodegree- Bay Area Bike Share Project
+
 This folder contains files for P0: Analyze Bay Area Bike Share Data.
 
-Bay\_Area\_Bike\_Share\_Analysis.ipynb - Main project file.
+Goal of Project: 
+Use Python to perform steps of the data analysis process on bikeshare trip data collected from the Bay Area Bike Share project. You will write code to clean the data, compute descriptive statistics, and create basic visualizations of the distribution of data.
+
+SLC_Bay_Area_Bike_Share_Analysis.ipynb - Main project file.
 
 babs\_datacheck.py; babs\_visualizations.py - Supplemental scripts for checking
 data wrangling, reporting of basic statistics, and creation of exploratory bar
@@ -21,3 +26,15 @@ system.
 
 \*\_weather\_data.csv - Weather information by day for one station in each
 city in the bike share program.
+
+
+### Software and Libraries
+
+This project uses the following software and Python libraries:
+
+    python 3
+    pandas 
+    numpy 
+    matplotlib
+    seaborn 
+    jupyter notebook
