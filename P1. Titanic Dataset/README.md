@@ -1,4 +1,4 @@
-## Udacity Data Analyst Nanodegree- Titanic Data Analysis
+## Udacity Data Analyst Nanodegree- Exploratory Data Analysis
 
 This folder contains files for P1: Titanic Data Analysis.
 
