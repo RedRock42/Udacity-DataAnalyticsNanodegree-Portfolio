@@ -8,6 +8,7 @@ Finally, you will interpret your results in terms of your hypotheses.
 
 
 Analyzing the Stroop Effect.ipynb - Main project file
+
 stroopdata.csv - Dataset
 
 ### Software and Libraries
