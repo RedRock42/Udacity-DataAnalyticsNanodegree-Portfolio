@@ -2,8 +2,8 @@
 
 This folder contains the files for the P3. Red Wine Quality Analysis
 
-*Goal of Project:* Investigate the red wine quality dataset using R libraries and a multiple linear regression model to 
-find if any of the 11 independent physicochemical properties can be used to predict the quality rating of a wine. 
+*Goal of Project:* Investigate the red wine quality dataset using R libraries and a multiple linear regression model utilizing
+the backward elimination method on the 11 independent physicochemical properties to predict future wine quality ratings. 
 
 WineQuality_Final.html - Main project file
 
