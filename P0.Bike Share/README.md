@@ -2,7 +2,7 @@
 
 This folder contains files for P0: Analyze Bay Area Bike Share Data.
 
-Goal of Project: 
+*Goal of Project:* 
 Use Python to perform steps of the data analysis process on bikeshare trip data collected from the Bay Area Bike Share project. You will write code to clean the data, compute descriptive statistics, and create basic visualizations of the distribution of data.
 
 SLC_Bay_Area_Bike_Share_Analysis.ipynb - Main project file.
