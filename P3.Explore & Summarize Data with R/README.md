@@ -7,22 +7,22 @@ find if any of the 11 independent physicochemical properties can be used to pred
 
 WineQuality_Final.html - Main project file
 
-###Software and Libraries
-    caTools
-    class
-    corrplot
-    dplyr
-    e1071
-    GGally 
-    ggthemes
-    ggplot2
-    ggExtra
-    gridExtra
-    ISLR
-    knitr
-    readr
-    reshape2
-    stats
-    tibble
-    tidyr
-    visreg
+### Software and Libraries
+        caTools
+        class
+        corrplot
+        dplyr
+        e1071
+        GGally 
+        ggthemes
+        ggplot2
+        ggExtra
+        gridExtra
+        ISLR
+        knitr
+        readr
+        reshape2
+        stats
+        tibble
+        tidyr
+        visreg
