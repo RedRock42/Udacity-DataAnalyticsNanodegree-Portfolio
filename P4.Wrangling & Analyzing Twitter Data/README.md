@@ -19,5 +19,6 @@ Wrangle Act.ipynb - Main project file
         requests
         tweepy
         json
+        Tableau
         
 
