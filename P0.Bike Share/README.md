@@ -18,7 +18,7 @@ indicate contents:
 
 \*\_README.txt - Information about contents of data files.
 
-\*\_station\_data.csv - Basic information about station locations and
+\*\seattle_\_data.csv - Basic information about station locations and
 capacities.
 
 \*\_trip\_data.csv - Information about each trip taken using the bike share
